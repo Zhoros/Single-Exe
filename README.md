@@ -1,6 +1,3 @@
-# I'm open to work
-see my github profile for my email
-
 # Single Exe
 <ins>**Please star this repo if you find it useful, thank you!**</ins>  
   
